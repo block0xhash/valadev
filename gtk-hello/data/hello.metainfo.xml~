@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.block0xhash.learn_vala</id>
+  
+  <name>Learn Vala</name>
+  <summary>learning how to code Vala</summary>
+  
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  
+  <description>
+    <p>
+      trying to see what cool stuff I can build with Vala
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">io.github.block0xhash.learn_vala.desktop</launchable>
+</component>

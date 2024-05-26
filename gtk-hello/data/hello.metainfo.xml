@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.block0xhash.learn_vala</id>
+  
+  <name>Learn Vala</name>
+  <summary>learning how to code Vala</summary>
+  
+  <metadata_license>MIT</metadata_license>
+  <project_license>MIT</project_license>
+  
+  <description>
+    <p>
+      trying to see what cool stuff I can build with Vala
+    </p>
+  </description>
+  
+  <launchable type="desktop-id">io.github.block0xhash.learn_vala.desktop</launchable>
+  
+  <screenshots>
+  <screenshot type="default">
+    <caption>The most important feature of my app</caption>
+    <image>https://raw.githubusercontent.com/myteam/myapp/1.0.0/data/screenshot.png</image>
+  </screenshot>
+</screenshots>
+
+<releases>
+  <release version="1.0.0" date="2022-09-08">
+    <description>
+      <p>Initial release, includes features such as:</p>
+      <ul>
+        <li>Application can be launched</li>
+      </ul>
+    </description>
+  </release>
+</releases>
+
+
+<branding>
+  <color type="primary">#f37329</color>
+</branding>
+
+<custom>
+  <value key="x-appcenter-suggested-price">5</value>
+  <value key="x-appcenter-stripe">pk_live_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</value>
+</custom>
+
+</component>

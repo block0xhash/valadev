@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Learn Vala
+Comment=learning how to code Vala
+Categories=Education;ComputerScience;
+
+Icon=learnvala
+Exec=valadev
+Terminal=false
+
